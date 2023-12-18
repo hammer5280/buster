@@ -51,7 +51,7 @@ and cultural background, and the devices or networks we connect from.
 
 The difficulty of captchas can be so out of balance,
 that sometimes they seem friendlier to bots than they are to humans.
-
+.
 The goal of this project is to improve our experience on the web,
 by giving us easy access to solutions utilized by automated systems.
 
@@ -76,3 +76,4 @@ Copyright (c) 2018-2023 Armin Sebastian
 
 This software is released under the terms of the GNU General Public License v3.0.
 See the [LICENSE](LICENSE) file for further information.
+Commit to force build - Brian H..
